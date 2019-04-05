@@ -1,5 +1,7 @@
 {
   "name": "myFurstIon",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
